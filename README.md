@@ -1,5 +1,5 @@
 ![The banner](https://github.com/Miniuss/Miniuss/assets/147941256/de77ae36-882d-4ad7-a866-ddd15ed450ff)
-###### yup hello
+<sub>yup hello</sub>
 
 # About me
 
@@ -17,7 +17,7 @@ I speak both English and Russian languages, so when trying to reach out for me, 
 ### 🛠️ — Other skills i have
 - Making simple SQLite databases
 
-###### Lists will grow as I learn more
+<sub>Lists will grow as I learn more</sub>
 
 ### 🎯 — My goals for future
 - Learn about and try out Linux
