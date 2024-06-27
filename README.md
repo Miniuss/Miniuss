@@ -71,7 +71,7 @@ When it comes to programming languages, I'd like to learn:
     <details>
         <summary>Contact information</summary>
         <li>
-            <a href="https://example.com">
+            <a href="https://discord.com/users/1220251742630051940">
                 Discord
             </a>
         </li>
