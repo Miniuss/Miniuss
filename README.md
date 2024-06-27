@@ -1,29 +1,79 @@
-![The banner](https://github.com/Miniuss/Miniuss/assets/147941256/de77ae36-882d-4ad7-a866-ddd15ed450ff)
-<sub>yup hello</sub>
+![Banner](images/banner.png)
 
-# About me
+# Hello world!
+Hi there! I am Minius, a beginner developer. I've begun learning coding approximately in **year 2022**, and planning to improve in this sphere as much as I can.
 
-My hobby in programming bounds is to **make small applications that solve minor problems**, as for instance my [Discord timestamping applicaiton](https://github.com/Miniuss/DiscordTimestamper).\
-I love to make games sometimes.\
-I can make sometimes bigger projects, though I don't really have the biggest motivation to make them.\
-\
-I speak both English and Russian languages, so when trying to reach out for me, you can use both of them.
+I'm not a native English speaker, so excuse me for some spelling mistakes I may have written in here.
 
-### 💻 — Programming languages that I know
+> [!NOTE]
+> However note that I can speak, write and understand English on my own.
+
+In this README I will in details explain which abilities I have at current time.
+
+## Programming languages I know 💻
+I know plenty of the programming languages, this includes:
+
 - Python
 - Lua
-- SQL partially
+- SQL (partially)
+- JavaScript
 
-### 🛠️ — Other skills i have
-- Making simple SQLite databases
+While these are technically not programming langugages, I will also include just for clarification knowledge of:
 
-<sub>Lists will grow as I learn more</sub>
+- HTML
+- CSS
 
-### 🎯 — My goals for future
-- Learn about and try out Linux
-- Learn all of the C's (C, C++, C#)
-- Learn HTML and CSS
-- Learn JavaScript
+## My qualities 🏅
+While as a beginner I don't really have that much of redeeming qualities, I try to improve myself.
 
-### 📞 — How to reach out for me
-You can mainly reach out for me in [Discord DMs](https://discord.com/users/1220251742630051940).
+Here's list of some that I currently have:
+
+- ### Constant race for improvement
+    - I always try to impove myself wherever and whenever I can. I take any advise that can help me and respect constructive criticism.
+- ### Always trying to write beatiful, readable code
+    - I try to avoid possibility of confusion in functionality of my code, always try to make it look presentable and readable.
+
+## Plans for future 📝
+As stated earlier, I have big plans for future to improve my coding skills.
+
+List of what i want to do in future:
+
+> [!IMPORTANT]
+> ~~Crossed~~ text means that this plan was accomplished.
+
+- Create my own website with information about me, my progress in coding and developing apps, games.
+- Contribute in at least 1 project, or work in team of developers. <small>(to put simply: help people)</small>
+- Make more useful utilities, either small- or medium-sized
+- Develop at least 1 app
+
+When it comes to programming languages, I'd like to learn:
+
+- C, C++ and C#
+- PHP
+
+<br>
+<br>
+
+<big>
+    <b>Thanks for reading!</b>
+</big>
+
+<br>
+
+<small>
+    You can also check out my publicly available projects
+</small>
+
+<br>
+<br>
+
+<big>
+    <details>
+        <summary>Contact information</summary>
+        <li>
+            <a href="https://example.com">
+                Discord
+            </a>
+        </li>
+    </details>
+</big>
