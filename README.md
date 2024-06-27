@@ -18,7 +18,7 @@ I know plenty of the programming languages, this includes:
 - SQL (partially)
 - JavaScript
 
-While these are technically not programming langugages, I will also include just for clarification knowledge of:
+While these are technically not programming languages, I will also include just for clarification knowledge of:
 
 - HTML
 - CSS
