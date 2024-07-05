@@ -2,12 +2,6 @@
 
 # Hello world!
 Hi there! I am Minius, a beginner developer. I've begun learning coding approximately in **year 2022**, and planning to improve in this sphere as much as I can.
-
-I'm not a native English speaker, so excuse me for some spelling mistakes I may have written in here.
-
-> [!NOTE]
-> However note that I can speak, write and understand English on my own.
-
 In this README I will in details explain which abilities I have at current time.
 
 ## Programming languages I know 💻
